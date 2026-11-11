@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-pestana1213-181717?style=flat-square&logo=github)](https://github.com/pestana1213)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joao-nogueira-fafe/)
 
 </div>
 
