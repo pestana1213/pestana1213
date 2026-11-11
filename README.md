@@ -1,12 +1,9 @@
 <!--
   GitHub Profile README
   Repository: pestana1213
-  Banner: assets/profile-banner.png
 -->
 
 <div align="center">
-
-<img src="assets/profile-banner.png" width="100%" alt="João - Backend Engineer"/>
 
 <br/>
 
